@@ -6,7 +6,7 @@ const BLOG = {
   description: 'Blog for my daily notes, unnecessary things, stories, and journal.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
-  font: 'sans-serif', // ['sans-serif', 'serif']
+  font: 'Rubik', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app/Ryzs%20Blog.jpeg?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-white-logo.svg&widths=150&heights=150', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/rizkyfathulh',
+  socialLink: 'https://twitter.com/RizkyFathulH',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'Daily', 'Notes', 'Engineering', 'Frontend', 'Backend', 'Fullstack'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
